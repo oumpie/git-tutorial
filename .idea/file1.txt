@@ -1,0 +1,1 @@
+git in one step command i.e. git commit-a
