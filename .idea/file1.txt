@@ -2,4 +2,6 @@ git in one step command i.e. git commit-a
 
 *** resuming YouTube tutorial ***
 
-Checking > git init > git commit (local repo)
+Checking <>
+    git init <>
+        git commit (local repo) <>
