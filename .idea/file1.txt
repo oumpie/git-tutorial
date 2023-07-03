@@ -5,3 +5,5 @@ git in one step command i.e. git commit-a
 Checking <>
     git init <>
         git commit (local repo) <>
+
+jira ticket info changes logged
