@@ -6,4 +6,4 @@ Checking <>
     git init <>
         git commit (local repo) <>
 
-jira tickez info changes logged
+jira ticket info changes logged
