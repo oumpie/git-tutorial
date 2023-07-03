@@ -18,3 +18,9 @@ test123
   - testing  
       - git fetch - will fetch changes from remote to git local repo - line 19
       - git pull  - will  fetch & merge changes from remote repo to working copy (local workspace) - line 20       
+
+git pull
+
+git branches 
+
+adding new features 
