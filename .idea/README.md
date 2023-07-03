@@ -6,5 +6,6 @@ git init
 git commit 
 1. meaningful state ---> versoned copy od this state -> 1.0
 2. move to staging area
-3. rollback capability
+3. can rollback capability
+4. commit the file to the local repo
 
