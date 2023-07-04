@@ -6,4 +6,4 @@ Checking <>
     git init <>
         git commit (local repo) <>
 
-jira ticket info changes logged
+changes-1
